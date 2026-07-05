@@ -1,0 +1,11 @@
+/* App specific overrides if any */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding-bottom: 4rem;
+}
